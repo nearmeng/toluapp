@@ -1,9 +1,9 @@
 build/*
 
-bin/*
+bin/
 !bin/.gitkeep
 
-lib/*
+lib/
 !lib/.gitkeep
 
 example/build/
