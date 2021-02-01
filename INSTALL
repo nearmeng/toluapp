@@ -5,7 +5,7 @@ modified by stevhuang, support lua-5.3.
 * Installation
 
 	1. Asume you are in toluapp base dir
-	2. mkdir build
+	2. mkdir build && cd build
 	3. Linux: just use command cmake .. || Windows: use command cmake -G"Visual Studio 15 2017 Win64" ..
 	4. Linux: make || Windows: just open the .sln file and compile
 
