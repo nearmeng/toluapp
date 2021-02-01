@@ -1,0 +1,16 @@
+build/*
+
+bin/*
+!bin/.gitkeep
+
+lib/*
+!lib/.gitkeep
+
+example/build/
+!example/build/.gitkeep
+
+example/tolua_*.h
+example/tolua_*.cpp
+example/toluapp_*.h
+example/toluapp_*.cpp
+example/.vs
