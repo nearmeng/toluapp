@@ -12,6 +12,9 @@ enum TEST_ENUM
 class CTest
 {
 public:
+	CTest() {};
+	~CTest() {};
+
 	int TestInt(int p);
 	unsigned int TestUInt(unsigned int p);
 	long long TestLL(long long p);

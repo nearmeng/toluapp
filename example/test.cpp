@@ -152,6 +152,11 @@ int main()
 		print(t.Embedded.CStrArray[0]);\
 		print(t.Embedded.BooleanArray[0]);\
 		print(t.Embedded.BooleanArray[1]);\
+		print('-------------------');\
+		obj = CTest:new();\
+		obj.IntArray[0] = 10;\
+		print(obj.IntArray[0]);\
+		obj:delete();\
 		end");
 
 		lua_getglobal(L, "test");
