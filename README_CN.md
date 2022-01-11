@@ -11,7 +11,7 @@ TOLUA++ 1.0
     可以查看COPYRIGHT文件查看详细的信息.
 
 - 安装  
-    可以查看INSTALL来查看安装细节
+    可以查看[INSTALL](INSTALL.md)来查看安装细节
 
 - 联系作者   
     tolua 最初版本由Waldemar Celes设计和实现.  

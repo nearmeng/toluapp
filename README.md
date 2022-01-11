@@ -18,7 +18,7 @@ This is tolua++-1.0 &nbsp;&nbsp;[中文版本](README_CN.md)
   See COPYRIGHT for details.
 
 - Installation  
-  See INSTALL.
+  See [INSTALL](INSTALL.md).
 
 - Contacting the author  
   tolua has been designed and implemented by Waldemar Celes.
