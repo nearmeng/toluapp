@@ -23,5 +23,5 @@ TOLUA++ 1.0
     https://github.com/dabing1022/Blog/blob/master/tolua/tolua%2B%2B%E4%B8%AD%E6%96%87%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C%5B%E5%AE%8C%E6%95%B4%E7%BF%BB%E8%AF%91%5D.md  
     这里面包含有tolua++的基本介绍和使用的方式。
 
-- 示例
+- 示例  
     可以查看example文件中的一个简单例子查看使用方法。

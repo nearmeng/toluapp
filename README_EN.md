@@ -1,4 +1,4 @@
-This is tolua++-1.0
+This is tolua++-1.0 &nbsp;&nbsp;[中文版本](README_CN.md)
 
 - What is tolua++?   
   tolua++ is an extension of toLua, a tool to integrate C/C++ code with

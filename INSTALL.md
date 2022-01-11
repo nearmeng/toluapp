@@ -16,9 +16,9 @@ modified by nearmeng, support lua-5.3.
 <br/>
 * What you get
 
-	* an executable to generate binding code in ./bin;
-	* the C library to be linked in your application in ./lib;
-	* the include file needed to compile your application in ./inc;  
+	- an executable to generate binding code in ./bin;
+	- the C library to be linked in your application in ./lib;
+	- the include file needed to compile your application in ./inc;  
   These are the only directories you need for development, besides Lua.   
 <br/>
 * Compile detail (you can ignore)  
